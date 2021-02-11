@@ -1,0 +1,30 @@
+* {
+ padding: 0;
+ margin: 0;
+ background-color: #DC143C;
+ background-image: linear-gradient(to right, rgb(200, 30, 50 0.5), #f06d06);
+ color: white;
+ text-align: center;
+}
+
+h1 {
+ margin: 50px 30px;
+ position: relative;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+#timebox,
+#myBtn {
+ font-family: cursive;
+ border: 3px solid #f7f094cb;
+ border-radius: 10px;
+ max-width: 200px;
+ max-height: 180px;
+ display: inline-block;
+ margin: 20px 10px 20px 20px;
+ padding: 20px;
+}
+
+p {
+ padding: 10px;
+}
